@@ -1,0 +1,42 @@
+.container {
+	background-color:   #0077B5;
+  height: 600px;
+}
+
+.intro {
+	background-color: #fff;
+  height: 100px;
+}
+
+.details {
+	background-color:   green;
+
+}
+
+h1 {
+  text-align: center;
+  padding-top: 15px;
+  color: #ffffff;
+}
+
+.aws {
+  margin-left: 50px;
+  margin-top: 50px;	
+  height: 200px;
+  width: 200px;
+  border: 5px solid white;	
+}
+
+.ci {
+  float: right;
+  margin-right: 50px;
+  margin-top: 50px; 
+  height: 200px;
+  width: 200px;
+  border: 5px solid white;  
+}
+
+p {
+  text-align: center;
+	color: #ffffff;
+}
