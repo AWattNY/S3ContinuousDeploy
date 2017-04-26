@@ -1,22 +1,22 @@
 .container {
-	background-color:   #0077B5;
+	background-color:   #F2FAFC;
   height: 600px;
 }
 
 .intro {
-	background-color: #fff;
+	background-color: x#DDDDDC;
   height: 100px;
 }
 
 .details {
-	background-color:   green;
+	background-color:  #F2FAFC;
 
 }
 
 h1 {
   text-align: center;
   padding-top: 15px;
-  color: #ffffff;
+  color: #666666;
 }
 
 .aws {
@@ -24,7 +24,7 @@ h1 {
   margin-top: 50px;	
   height: 200px;
   width: 200px;
-  border: 5px solid white;	
+  border: 5px solid #666666;	
 }
 
 .ci {
@@ -33,10 +33,11 @@ h1 {
   margin-top: 50px; 
   height: 200px;
   width: 200px;
-  border: 5px solid white;  
+  border: 5px solid #666666;  
 }
 
 p {
   text-align: center;
-	color: #ffffff;
+	color: #666666;
+  font-size: 20px;
 }
